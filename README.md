@@ -86,12 +86,6 @@ It is suitable for:
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots of the website here to improve presentation.*
-
----
-
 ## 🔮 Future Improvements
 
 * JavaScript form validation
