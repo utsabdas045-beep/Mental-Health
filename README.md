@@ -49,7 +49,7 @@ mental-health-website/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/mental-health-website.git
+   git clone https://utsabdas045-beep.github.io/Mental-Health/
    ```
 2. Navigate to the project folder:
 
